@@ -102,7 +102,7 @@ if (startBtn) {
 // ===========================
 
 const startDate =
-new Date("2025-04-24T00:00:00");
+new Date("2026-04-24T00:00:00");
 
 function updateCounter() {
 
